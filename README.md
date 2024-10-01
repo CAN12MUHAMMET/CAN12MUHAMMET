@@ -31,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CAN12MUHAMMET&" alt="CAN12MUHAMMET" /></p>
 
+![snake gif](https://github.com/CAN12MUHAMMET/CAN12MUHAMMET/blob/output/github-contribution-grid-snake.gif)
