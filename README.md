@@ -1,5 +1,5 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaU8ZVrVh0WGLJhT7gsnOnbelQJRqfPX40sg&s)
+[![MasterHead](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1699563032/catalog/1722711722066055168/s4ttakm7omkx3ajj6972.jpg)
 <h1 align="center">Hi 👋, I'm Muhammetcan Akcura</h1>
 <h3 align="center">frontend developer from Turkey</h3>
 
