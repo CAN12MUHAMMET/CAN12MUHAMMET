@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Muhammetcan Akcura</h1>
 <h3 align="center">frontend developer from Turkey</h3>
 
+<P>
+  Hi, I'm Muhammetcan, a software developer with 2 years of experience primarily focused on JavaScript technologies. I have a fast and open learning style, I stay up to date with new technologies. My expertise covers Frontend development and my goal is to become a Full Stack Developer.
+</P>
+
+
 - 🔭 I’m currently working on **React-Node**
 
 - 💬 Ask me about **React**
