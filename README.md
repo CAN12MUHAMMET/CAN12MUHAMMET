@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1699563032/catalog/1722711722066055168/s4ttakm7omkx3ajj6972.jpg](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/274705039/original/5e07b5867970208695214c6766120fa5cd5f8a81/frontend-developer-react-frontend-react-js-frontend-website-next-js.png))
+[![MasterHead](https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1699563032/catalog/1722711722066055168/s4ttakm7omkx3ajj6972.jpg](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/274705039/original/5e07b5867970208695214c6766120fa5cd5f8a81/frontend-developer-react-frontend-react-js-frontend-website-next-js.png))
 <h1 align="center">Hi 👋, I'm Muhammetcan Akcura</h1>
 <h3 align="center">frontend developer from Turkey</h3>
 
